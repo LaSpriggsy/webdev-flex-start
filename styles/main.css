@@ -75,3 +75,7 @@ footer{
     text-align:center;
     font-style:italic;
 }
+.left-float{
+    float:left;
+    padding:0 15px 15px 0;
+}
